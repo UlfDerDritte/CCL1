@@ -1,0 +1,58 @@
+body {
+    background-image: url("../sprites/background.png");
+    background-size: 115vh;
+    background-repeat: repeat-x;
+    background-color: rgb(92, 77, 57);
+}
+#canvas {
+    position: absolute;
+    visibility: hidden;
+    border-style: solid;
+    border-top: none;
+    border-width: 1vh;
+    border-color: rgb(78, 57, 34);
+    top: 19vh;
+    left: 5vw;
+    width: 90vw;
+    margin: auto;
+    z-index:-1;
+}
+
+#startScreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#winScreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    visibility: hidden;
+}
+
+#loseScreen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    visibility: hidden;
+}
+
+.button {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 50vh;
+    width: 20vw;
+}
+
+.health {
+    /* position: absolute; */
+    display: flex;
+}
+
+.heart {
+    width: 5vw;
+    /* visibility: hidden; */
+}

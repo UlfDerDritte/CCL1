@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hog Rush</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="shortcut icon" href="favicon.png">
+</head>
+
+<body id="body">
+    <div id="startScreen">
+        <input id="startButton" class="button" type="image" src="./sprites/startButton.png" alt="Start Game">
+    </div>
+    <div id="winScreen">
+        <input id="winButton" class="button" type="image" src="./sprites/restartButton.png" alt="Play Again">
+    </div>
+    <div id="loseScreen">
+        <input id="loseButton" class="button" type="image" src="./sprites/restartButton.png" alt="Retry">
+    </div>
+    <div class="game">
+        <div class="health">
+            <img class="heart" id="heart1" src="./sprites/health.png" style="visibility: hidden;">
+            <img class="heart" id="heart2" src="./sprites/health.png" style="visibility: hidden;">
+            <img class="heart" id="heart3" src="./sprites/health.png" style="visibility: hidden;">
+        </div>
+        <canvas id="canvas" width="1500" height="500"></canvas>
+    </div>
+    <script type="module" src="./scripts/modules/global.js"></script>
+    <script type="module" src="./scripts/modules/controls.js"></script>
+    <script type="module" src="./scripts/modules/main.js"></script>
+
+</body>
+
+</html>
