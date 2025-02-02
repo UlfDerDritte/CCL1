@@ -7,4 +7,4 @@
 20.1. finishing up some code, rewriting some triggers, miscellaneous stuff generally, working on a bunch of different stuff
 21.1. implementing collision logic for projectiles and enemies. some mechanics for what happens when the finish truffle is in sight
 22.1. setting up enemy movement and doing some sprite work
-23.1. more sprite work, implementing collision between enemies and rocks, tying game into start, lose and win screens, finishing touches, coming to terms with my own mortality
+23.1. more sprite work, implementing collision between enemies and rocks, tying game into start, lose and win screens, health display, finishing touches
