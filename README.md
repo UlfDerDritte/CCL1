@@ -33,7 +33,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Snout, the Player Character:
 <div style="text-align: center;">
-  <img src="/Hog Rush/sprites/snoutSpritesheet.png" alt="Player Spritesheet" width="500">
+  <img src="/docs/sprites/snoutSpritesheet.png" alt="Player Spritesheet" width="500">
   <p>*Figure 3: The spritesheet for the player character Snout.*</p>
 </div>
 
@@ -41,13 +41,13 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Wolves:
 <div style="text-align: center;">
-  <img src="/Hog Rush/sprites/enemySpritesheet.png" alt="Enemy Spritesheet" width="500">
+  <img src="/docs/sprites/enemySpritesheet.png" alt="Enemy Spritesheet" width="500">
   <p>*Figure 4: The spritesheet for the enemy wolves.*</p>
 </div>
 
 ### Rocks:
 <div style="text-align: center;">
-  <img src="/Hog Rush/sprites/rock.png" alt="Enemy Spritesheet" width="140">
+  <img src="/docs/sprites/rock.png" alt="Enemy Spritesheet" width="140">
   <p>*Figure 5: The sprite for the static rocks.*</p>
 </div>
 
