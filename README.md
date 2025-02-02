@@ -15,6 +15,7 @@
 <div style="text-align: center;">
   <img src="gameplay.png" alt="Gameplay Screenshot" width="600">
   <p>*Figure 1: Snout braving the wilds and taking on wolves.*</p>
+  <p>*The controls are WASD for movement and SPACE to sling a stone*</p>
 </div>
 
 ---
