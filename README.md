@@ -46,7 +46,7 @@ Below are the sprites used to create characters and objects in the game:
 
 ### Rocks:
 <div style="text-align: center;">
-  <img src="/Hog Rush/sprites/rock.png" alt="Enemy Spritesheet" width="500">
+  <img src="/Hog Rush/sprites/rock.png" alt="Enemy Spritesheet" width="140">
   <p>*Figure 5: The sprite for the static rocks.*</p>
 </div>
 
