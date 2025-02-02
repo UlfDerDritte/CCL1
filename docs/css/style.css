@@ -2,7 +2,7 @@ body {
     background-image: url("../sprites/background.png");
     background-size: 115vh;
     background-repeat: repeat-x;
-    background-color: rgb(92, 77, 57);
+    background-color: rgb(98, 76, 51);
 }
 #canvas {
     position: absolute;
