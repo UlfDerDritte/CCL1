@@ -22,7 +22,7 @@
 ### Menu:
 <div style="text-align: center;">
   <img src="menu.png" alt="Menu UI Screenshot" width="600">
-  <p>*Figure 2: The very simle Main Menu.*</p>
+  <p>*Figure 2: The very simple Main Menu.*</p>
 </div>
 
 ---
